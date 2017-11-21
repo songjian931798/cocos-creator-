@@ -1,0 +1,26 @@
+{
+  "appKey": "4273F4E4-E308-F580-3D0F-30963C24E619",
+  "appSecret": "817d961789ec700688248b7ba58aa9c2",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "https://www.baidu.com",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.songsong.game21",
+  "privateKey": "96D85C48A917F5E9D9EAC9CFEB432C25",
+  "renderMode": "0",
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "title": "game21",
+  "webOrientation": "auto"
+}
